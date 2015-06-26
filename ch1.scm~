@@ -1,0 +1,4 @@
+(define (nested-proc-test)
+  '5
+  (define (level-2)
+    '3))
